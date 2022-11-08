@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="452e94a7-d63a-4b6a-9860-0a0caf3a8e2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-padroes-projeto-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinovation/gof/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinovation/gof/facade/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinovation/gof/singleton/SingletonEager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinovation/gof/singleton/SingletonLazy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinovation/gof/singleton/SingletonLazyHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinovation/gof/strategy/Comportamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinovation/gof/strategy/ComportamentoAgressivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinovation/gof/strategy/ComportamentoDefensivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinovation/gof/strategy/ComportamentoNormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinovation/gof/strategy/Robo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subsistema1/crm/CrmService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subsistema2/cep/CepApi.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H3zKmadUGWBdiwQC0s3t89Eiol" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/sergio/Ifood-dev-week_PotenciaTech/lab-padroes-projeto-spring"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="one.digitalinovation.gof.strategy" />
+      <recent name="one.digitalinovation.gof" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="452e94a7-d63a-4b6a-9860-0a0caf3a8e2b" name="Changes" comment="" />
+      <created>1667528493917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667528493917</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
